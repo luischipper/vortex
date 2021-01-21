@@ -73,7 +73,7 @@
     "prettier": "2.1.2",
     "prettier-plugin-java": "1.0.1",
     "rimraf": "3.0.2",
-    "sass": "1.26.9",
+    "sass": "1.32.5",
     "sass-loader": "8.0.2",
     "simple-progress-webpack-plugin": "1.1.2",
     "style-loader": "1.2.1",
