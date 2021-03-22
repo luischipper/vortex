@@ -37,7 +37,7 @@
     "@angular/cli": "10.0.0",
     "@angular/compiler-cli": "10.0.0",
     "@ngtools/webpack": "10.0.0",
-    "@openapitools/openapi-generator-cli": "2.2.2",
+    "@openapitools/openapi-generator-cli": "2.2.3",
     "@types/jest": "26.0.3",
     "@types/node": "13.13.4",
     "@typescript-eslint/eslint-plugin": "2.30.0",
